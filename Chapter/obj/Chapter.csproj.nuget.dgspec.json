@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Documentos\\Cursos On-line\\SENAI\\Programador Full Stack\\_git\\Chapter\\Chapter\\Chapter\\Chapter.csproj": {}
+    "F:\\Documentos\\Cursos On-line\\SENAI\\Programador Full Stack\\_git\\Chapter\\Chapter\\Chapter.csproj": {}
   },
   "projects": {
-    "F:\\Documentos\\Cursos On-line\\SENAI\\Programador Full Stack\\_git\\Chapter\\Chapter\\Chapter\\Chapter.csproj": {
+    "F:\\Documentos\\Cursos On-line\\SENAI\\Programador Full Stack\\_git\\Chapter\\Chapter\\Chapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Documentos\\Cursos On-line\\SENAI\\Programador Full Stack\\_git\\Chapter\\Chapter\\Chapter\\Chapter.csproj",
+        "projectUniqueName": "F:\\Documentos\\Cursos On-line\\SENAI\\Programador Full Stack\\_git\\Chapter\\Chapter\\Chapter.csproj",
         "projectName": "Chapter",
-        "projectPath": "F:\\Documentos\\Cursos On-line\\SENAI\\Programador Full Stack\\_git\\Chapter\\Chapter\\Chapter\\Chapter.csproj",
+        "projectPath": "F:\\Documentos\\Cursos On-line\\SENAI\\Programador Full Stack\\_git\\Chapter\\Chapter\\Chapter.csproj",
         "packagesPath": "C:\\Users\\Brener Pittner\\.nuget\\packages\\",
-        "outputPath": "F:\\Documentos\\Cursos On-line\\SENAI\\Programador Full Stack\\_git\\Chapter\\Chapter\\Chapter\\obj\\",
+        "outputPath": "F:\\Documentos\\Cursos On-line\\SENAI\\Programador Full Stack\\_git\\Chapter\\Chapter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Brener Pittner\\AppData\\Roaming\\NuGet\\NuGet.Config",

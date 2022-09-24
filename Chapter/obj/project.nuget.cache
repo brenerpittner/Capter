@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9nFG4Tg/RPePTJIkG05xhdFmzey4oOYjaAwc5TxWb4gWbLKiUjL+2aHoJwVi0igYIspI0RYb5KmpzIoVYqqd9Q==",
+  "dgSpecHash": "Sk+6TxwKxX6kx7kirU2AzAUtYzSe8LIoJ0mykiETl8MKueWi+5aJF4xqlord4znHpTeqgzEdApx9evwNJAyTbg==",
   "success": true,
-  "projectFilePath": "F:\\Documentos\\Cursos On-line\\SENAI\\Programador Full Stack\\_git\\Chapter\\Chapter\\Chapter\\Chapter.csproj",
+  "projectFilePath": "F:\\Documentos\\Cursos On-line\\SENAI\\Programador Full Stack\\_git\\Chapter\\Chapter\\Chapter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Brener Pittner\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Brener Pittner\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
