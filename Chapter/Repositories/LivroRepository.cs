@@ -32,7 +32,7 @@ namespace Chapter.Repositories
         {
             Livro livroBuscado = _context.Livros.Find(id);
 
-            if(livroBuscado != null)
+            if(livro != null)
             {
                 livroBuscado.Titulo = livro.Titulo;
                 livroBuscado.QuantidadePaginas = livro.QuantidadePaginas;
